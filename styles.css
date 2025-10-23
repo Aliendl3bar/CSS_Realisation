@@ -14,12 +14,7 @@ header{
     justify-content: center;
     
 }
-.cv{
-    margin: 20px 100px 50px 100px;
-    display:grid;
-    grid-template-columns: 1fr 1fr ;
-    align-content: center;
-}
+
 footer{
     background-image: url(assets/Visions\ of\ Grandeur.jpg);
     color: white;
@@ -262,7 +257,7 @@ a:hover{
     color: #283e5a;
 }
 
-.projects{
+.projects,#leetcode{
     li{
         list-style: none;
     }
