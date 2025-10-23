@@ -297,7 +297,7 @@ a:hover{
     a{
         display: inline-block;
         font-size: 0.9em;
-        color: #251414;
+        color: #ffffff;
         text-decoration: none;
         position: relative;
         transition: color 0.3s;
@@ -310,11 +310,11 @@ a:hover{
         bottom: 0;
         width: 0;
         height: 2px;
-        background-color: #ffffff;
+        background-color: #00ffd5;
         transition: width 0.3s ease-out;
     }
     a:hover {
-        color: #e0e0e0;
+        color: #00ffe5;
     }
     a:hover::after {
         width: 100%;
