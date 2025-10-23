@@ -297,10 +297,11 @@ a:hover{
     a{
         display: inline-block;
         font-size: 0.9em;
-        color: #000000;
+        color: #251414;
         text-decoration: none;
         position: relative;
         transition: color 0.3s;
+        font-weight: 800;
     }
     a::after{
         content: '';
